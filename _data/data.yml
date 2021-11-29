@@ -17,7 +17,7 @@ languages:
   - idiom: Marathi
 
 education:
-  - degree: Master in Computer Applications
+  - degree: Masters in Computer Applications
     time: 2020-22
     university: Pune University
 
@@ -43,11 +43,8 @@ skills:
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+  Software Developer with three years of experience in coding, testing and establishing system improvements.
+  Equally adept at developing software for desktop computers, cloud integrations, and mobile devices.
 
 # Experience
 experience:
